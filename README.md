@@ -55,6 +55,3 @@ For efficient inference, the predict.py script allows users to use the GPU to ca
 2. Navigate to the project directory.
 3. For training: python train.py data_directory --options
 4. For prediction: python predict.py /path/to/image checkpoint --options
-
-### Source
-This was the final project for the AI Programming with Python Nanodegree on Udacity as part of the initial phase of AWS AI & ML Scholarship Program in 2022.
